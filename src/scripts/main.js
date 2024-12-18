@@ -354,7 +354,6 @@ const people = [
   },
 ];
 
-// write your code here
 const dashboard = document.querySelector('.dashboard');
 
 const markup = people
